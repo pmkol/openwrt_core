@@ -19,7 +19,6 @@ jobs:
       matrix:
         target:
           - aarch64_generic
-          - x86_64
 
     steps:
     - name: Checkout
