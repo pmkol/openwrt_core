@@ -63,10 +63,10 @@ Depends: libc, netifd, jsonfilter, usign, openwrt-keyring, fstools, fwtool
 License: GPL-2.0
 Section: base
 Architecture: aarch64_generic
-Installed-Size: 47776
+Installed-Size: 47775
 Filename: base-files_1-r24106-10cc5fcd00_aarch64_generic.ipk
-Size: 48771
-SHA256sum: 784e403208738fc01ca88f47eb9b7dfa61dfc0ff58f410a484b13f50e0873338
+Size: 48772
+SHA256sum: 7a71f23e6633e4a20146c82d0f4e6872496cb251c145151892fdb6dc9bf0dd39
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: block-mount
@@ -14532,10 +14532,10 @@ License: GPL-2.0
 Section: net
 CPE-ID: cpe:/a:netfilter:iptables
 Architecture: aarch64_generic
-Installed-Size: 31983
+Installed-Size: 31987
 Filename: xtables-legacy_1.8.8-2_aarch64_generic.ipk
-Size: 32523
-SHA256sum: 0bebf198b5dccf8488468d1da02fce3e744a205060bfab5f57593d5361d6a199
+Size: 32518
+SHA256sum: 2050362381ed58b258b9c021f076d83eefa832e3b50a49e48a530bf0bb32084e
 Description:  IP firewall administration tool
 
 Package: xtables-nft
