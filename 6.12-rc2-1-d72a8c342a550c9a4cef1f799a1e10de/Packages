@@ -63,10 +63,10 @@ Depends: libc, netifd, jsonfilter, usign, openwrt-keyring, fstools, fwtool
 License: GPL-2.0
 Section: base
 Architecture: aarch64_generic
-Installed-Size: 47775
+Installed-Size: 47774
 Filename: base-files_1-r24106-10cc5fcd00_aarch64_generic.ipk
-Size: 48771
-SHA256sum: 8df471cf900f4018dfb6a79265dba896842a39894aee6575316579a011c4946f
+Size: 48768
+SHA256sum: 5c980bdacf06ee51568cd6f9ad396c1a432f7ed4aae6124206c44d60f52fafca
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: block-mount
@@ -8903,10 +8903,10 @@ Version: 6.12-rc2-1
 Depends: kernel (=6.12-rc2-1-d72a8c342a550c9a4cef1f799a1e10de), kmod-ipt-conntrack
 Section: Derry Apps
 Architecture: aarch64_generic
-Installed-Size: 491533
+Installed-Size: 491528
 Filename: kmod-oaf_6.12-rc2-1_aarch64_generic.ipk
-Size: 487200
-SHA256sum: e7797b5c7d6bfc26664778c6dac5870e92d26bc45136cce8bc9882bc3bd841c1
+Size: 487139
+SHA256sum: 5f66e89dbfd8fee1e7766099ae6c79c1b5d7c1eb5f2e18fe0cc386c44b947155
 Description:  open appfilter kernel module 
 
 Package: kmod-of-mdio
@@ -14532,10 +14532,10 @@ License: GPL-2.0
 Section: net
 CPE-ID: cpe:/a:netfilter:iptables
 Architecture: aarch64_generic
-Installed-Size: 31987
+Installed-Size: 31983
 Filename: xtables-legacy_1.8.8-2_aarch64_generic.ipk
-Size: 32518
-SHA256sum: 2050362381ed58b258b9c021f076d83eefa832e3b50a49e48a530bf0bb32084e
+Size: 32523
+SHA256sum: 0bebf198b5dccf8488468d1da02fce3e744a205060bfab5f57593d5361d6a199
 Description:  IP firewall administration tool
 
 Package: xtables-nft
